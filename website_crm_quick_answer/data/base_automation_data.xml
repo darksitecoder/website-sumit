@@ -35,5 +35,6 @@
             name="filter_domain"
             eval="[('medium_id', '=', ref('utm.utm_medium_website'))]"
         />
+        <a href="#">Sumit Pal</a>
     </record>
 </odoo>
